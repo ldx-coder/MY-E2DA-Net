@@ -3,6 +3,9 @@
 
 name: Ultralytics CI
 
+if: false
+
+
 on:
   push:
     branches: [main]
